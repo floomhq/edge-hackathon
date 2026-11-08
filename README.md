@@ -1,4 +1,6 @@
-# Edge
+# Edge: stop slop
+
+Your agent writes generic slop because it works without expert know-how. Edge finds the right expert method on the internet (searched, classified and security-scanned) and loads it into your agent before it writes.
 
 Get the right expertise and know-how from the internet into your agent, at the moment it needs it.
 
